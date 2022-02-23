@@ -1,3 +1,6 @@
 [submodule "federated-learning-lib"]
 	path = federated-learning-lib
 	url = https://github.com/IBM/federated-learning-lib
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/hyperledger/fabric
